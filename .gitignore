@@ -5,10 +5,6 @@ LICENSE
 
 app.py_
 
-.github/workflows/deploy.yml_
-.github/workflows/de.yml_
-.github/workflows/tes.yml
-.github/workflows/coba.yml
 
 
 Dockerrun.aws.json
